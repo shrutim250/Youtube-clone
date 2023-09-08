@@ -1,0 +1,11 @@
+.Recommendations{
+  flex: 0.8;
+  background-color: #f8f8f8;
+  padding-top: 20px 40px;
+  padding-bottom: 0;
+ 
+}
+.Recommendations >h2{
+    margin-left:5px ;
+    margin-bottom: 20px;
+}
